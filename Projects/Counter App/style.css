@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(41, 44, 39);
+    align-items: center;
+    text-align: center;
+    color: rgb(201, 185, 144);
+    padding: 10%;
+}
+
+.button{
+    color: rgb(175, 179, 181);
+}
+
+p{
+    font-size: larger;
+    font-weight: 500;
+}
