@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(41, 44, 39);
+    text-align: center;
+    padding: 10%;
+}
+
+h1{
+    color: rgb(240, 190, 63);
+}
+
+.b1{
+    border: 5%;
+    border-radius: 30%;
+    color: silver;
+    background-color: black;
+}
